@@ -1,0 +1,19 @@
+Add captions to images
+A red card with white text
+
+{
+  "apim-request-id": "dd761a3e-cd38-4900-9d04-e0b53344f38c",
+  "content-length": "154",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a red card with white text",
+    "confidence": 0.8033680319786072
+  },
+  "metadata": {
+    "width": 720,
+    "height": 1600
+  }
+}
+
+
